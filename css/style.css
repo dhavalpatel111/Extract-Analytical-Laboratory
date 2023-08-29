@@ -2479,6 +2479,11 @@ pre code {
   .col-md-6 {
     width: 50%;
   }
+  .col-md-6-map{
+    width: 50%;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+  }
 
   .col-md-7 {
     width: 58.33333%;
